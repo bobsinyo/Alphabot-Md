@@ -31,15 +31,15 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
+global.botname = "⎝⎝✧Boͥbsͣiͫnyo✧⎠⎠" //namabot kalian
+global.ownername = "ᴹᴿ᛫ Ɽoー乃口乃" //nama kalian
+global.myweb = "https://s.id/bobsinyo" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@ChZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
-global.email = "zeeoneofc@gmail.com" //bebas
+global.email = "bobsinyoalif@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
+global.premium = [''] //premium user
 global.owner = ["62887435047326", "622150996855"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "62887435047326" // nomor wa kalian
 global.ownernomerr = "+62887435047326" //nmr wa kalian
